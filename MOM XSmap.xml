@@ -13,6 +13,16 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://www.mom.gov.sg/</loc>
+  <lastmod>2025-05-01T18:49:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.mom.gov.sg/about-us</loc>
+  <lastmod>2025-05-01T18:49:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://www.mom.gov.sg/employment-practices/managing-employment-disputes</loc>
   <lastmod>2025-05-01T18:49:20+00:00</lastmod>
   <priority>0.80</priority>
